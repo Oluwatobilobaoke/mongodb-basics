@@ -2,9 +2,9 @@
   "name": "mongo_db_task",
   "version": "1.0.0",
   "description": "Creation of database and also creating new collections",
-  "main": "collections.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node Server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/Oluwatobilobaoke/mongodb-basics/issues"
   },
-  "homepage": "https://github.com/Oluwatobilobaoke/mongodb-basics#readme"
+  "homepage": "https://github.com/Oluwatobilobaoke/mongodb-basics#readme",
+  "dependencies": {
+    "mongodb": "^3.5.5"
+  }
 }
