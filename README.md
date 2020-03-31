@@ -15,4 +15,4 @@ Interns Collections created by Oluwatobilobaoke
 ![Interns Collections by oluwatobilobaoke](screenshots/interns_colections.png "interns Collection created by oluwatobilobaoke")
 
 Interns Collections created by Oluwatobilobaoke
-![Interns Collections by oluwatobilobaoke](interns_colections_with_insert_document.png "interns Collection created by oluwatobilobaoke")
+![Interns Collections by oluwatobilobaoke](screenshots/interns_colections_with_insert_document.png "interns Collection created by oluwatobilobaoke")
