@@ -1,15 +1,10 @@
-let MongoClient = require('mongodb').MongoClient;
-
-let url = "mongodb://localhost:27017/";
-
-MongoClient.connect(url, function (err, db) {
-    if (err) throw err;
-
-    let myDatabase = db.db("oluwatobilobaoke");
-
-    myDatabase.createCollection("interns", { useUnifiedTopology: true }, function (err, res) {
-        if (err) throw err;
-        console.log("interns collection created");
-        db.close();
+const assert = require('assert');
+const insertDocuments = (db, callback) => {
+    const collection = db.collection('interns');
+    collection.insertOne({ "name": "oluwatobilobaoke" }, (error) => {
+        assert.equal(error, null);
+        console.log('interns collection created');
     })
-})
+}
+
+module.exports = insertDocuments;
