@@ -2,8 +2,8 @@ Welcome to my Mongodb basics ReadMe file
 
 git clone https://github.com/Oluwatobilobaoke/mongodb-basics.git
 
-run node mongodb.js
- run node collections.js
+npm install
+run node server.js
 
 Mongo and Mongod .exe terminals at the bin directory in your mongodb file
 ![Mongo and Mongod .exe terminals at the bin directory in your mongodb file](screenshots/mongoexe_andmongodexe_in_bin_folder.png "Mongo.exe and Mongod.exe ")
