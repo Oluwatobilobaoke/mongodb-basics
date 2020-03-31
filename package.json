@@ -1,0 +1,25 @@
+{
+  "name": "mongo_db_task",
+  "version": "1.0.0",
+  "description": "Creation of database and also creating new collections",
+  "main": "collections.js",
+  "scripts": {
+    "start": "node Server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oluwatobilobaoke/mongodb-basics.git"
+  },
+  "keywords": [
+    "Mongodb",
+    "nodejs",
+    "js",
+    "mongo"
+  ],
+  "author": "Oluwatobiloba Okekunle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oluwatobilobaoke/mongodb-basics/issues"
+  },
+  "homepage": "https://github.com/Oluwatobilobaoke/mongodb-basics#readme"
+}
