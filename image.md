@@ -2,6 +2,12 @@
 function prints the result of my insertion to the console
 ![My function prints the result of my insertion to the console by oluwatobilobaoke](screenshots/result_of_your_insertion_to_the_console.png "function prints the result of my insertion to the console")
 
+All Screenshots well detailed here
+![All Screenshots well detailed here](screenshots/crud__basics.png "All Screenshots well detailed here")
+
+All Screenshots well detailed here
+![All Screenshots well detailed here](screenshots/crud__basics__2.png "All Screenshots well detailed here")
+
 screenshot of my query results
 ![screenshot of my query results](screenshots/return_the_fist_document.png "screenshot of my query resultsthe updated collection to the console")
 
